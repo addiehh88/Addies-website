@@ -1,0 +1,59 @@
+body{
+    background-color: grey;
+    margin-left: 35%;
+    margin-right: 35%;
+    border: solid 2px white;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  img{
+    width:30%;
+    border-radius: 50%;
+    border: dashed 2px red;
+    display: block;
+    margin-left: 35%;
+    margin-right: 25%;
+    background-color: white;
+    padding: 5px;
+  }
+  h1{
+    text-align: center;
+    border-bottom-color: yellow;
+    border-bottom-width: 2px;
+    border-bottom-style: dashed;
+  }
+  h2 {
+    border: solid 2px red;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
+    color: red;
+  }
+  p{
+    text-align: center;
+  }
+  a{
+    text-decoration: underline;
+  }
+  .green-border{
+    border-color: green;
+  }
+
+  .green-name{
+    color: green;
+  }
+  
+  .blue-border{
+    color: blue;
+    border-color: blue;
+   
+  }
+  
+  div{
+    text-align: center;
+  }
+  /* 1. center the a tags
+  2. red color fire type name green color grass type
+  3. 5 water type pokemons with images and link.*/
+  
+  
